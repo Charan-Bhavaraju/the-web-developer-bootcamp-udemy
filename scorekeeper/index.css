@@ -1,0 +1,13 @@
+img {
+    width: 40%;
+    padding: 1em ;
+}
+
+body{
+    background-color: #F5EFFF;
+}
+
+#mainbody {
+    width: 40%;
+    margin: auto;
+}
